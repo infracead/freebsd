@@ -1,3 +1,0 @@
-# Freebsd - ricing
----
-
